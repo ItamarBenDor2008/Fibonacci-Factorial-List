@@ -8,7 +8,7 @@ This is a program designed for the user to give a number and the program will re
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yuval-dimri/malasimha.git](https://github.com/ItamarBenDor2008/Fibonacci-Factorial-List
+    git clone https://github.com/ItamarBenDor2008/Fibonacci-Factorial-List
     ```
 
 2. Get into the folder
