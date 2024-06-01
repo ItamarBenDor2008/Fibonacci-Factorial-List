@@ -21,5 +21,5 @@ This is a program designed for the user to give a number and the program will re
 3. Run the program
 
     ```sh
-    java Main
+    java Main.java
     ```
